@@ -1,0 +1,15 @@
+GITHUB Guide 1st Time
+
+echo "# demo5" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/akcoder11/demo5.git
+git push -u origin main
+
+	OR
+
+git remote add origin https://github.com/akcoder11/demo5.git
+git branch -M main
+git push -u origin main
